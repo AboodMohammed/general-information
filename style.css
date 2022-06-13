@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: #074494;
+    position: fixed;
+    width: 100%;
+    padding: 15px 0;
+    text-align: center;
+    display: flexbox;
+}
+
+section{
+    padding: 100px;
+    background: url(https://c.neh.tw/thumb/f/720/5387531193417728.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flexbox;
+    height: 100vh;
+}
+.main .q1{
+    font-size: 2.2em;
+    font-weight: 700;
+}
+.main .a1{
+    font-size: 1.2em;
+    font-weight: 550;
+    padding-left: 50px;
+}
+
+.main .a1 span{
+    color: rgb(235, 203, 203);
+}
+.main .q2{
+    padding-top: 100px;
+    font-size: 2.2em;
+    font-weight: 700;
+}
+.main .a2{
+    font-size: 1.2em;
+    font-weight: 550;
+    padding-left: 50px;
+}
